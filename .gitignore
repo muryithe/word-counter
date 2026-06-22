@@ -1,0 +1,17 @@
+# Input files (add your own locally, don't commit)
+files/
+
+# Generated output
+output/
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
